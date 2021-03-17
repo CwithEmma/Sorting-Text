@@ -1,0 +1,6 @@
+MediaType:Movie	Name:Fellowship of the Ring	FileSize:1000000000	FilePath:C:\Movies\LotR_FotR.mov	Genre:Fantasy	IMDB URL:https://www.imdb.com/title/tt0120737/	Director:Peter Jackson
+MediaType:TV	Name:Parks and Rec	FileSize:98000000	FilePath:C:\TV\BtVS-02x05.mov	Genre:Comedy	Season:2	Episode:5
+MediaType:TV	Name:SuperStore	FileSize:98000000	FilePath:C:\TV\BtVS-02x06.mov	Genre:Comedy	Season:2	Episode:6
+MediaType:Movie	Name:Percy Jackson and the Lightning King	FileSize:88000000	FilePath:C:\TV\Percy1.mov	Genre:Teen	IMDB URL:https://www.imdb.com/title/tt0120737/	Director:Alan Smitee
+MediaType:TVM	Name:Parks and Rec	FileSize:75643	FilePath:C:\TV\BtVS-02x05.mov	Genre:Comedy	Season:4	Episode:6	Start:03:21	End:10:01	Rating:4/5
+MediaType:TVM	Name:Rick and Morty	FileSize:89232	FilePath:C:\TV\BtVS-02x05.mov	Genre:Comedy	Season:3	Episode:5	Start:05:21	End:11:01	Rating:3/5
